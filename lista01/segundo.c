@@ -1,6 +1,10 @@
 #include<stdio.h>
 #include<stdlib.h>
-/*quest√£o 02*/
+/*
+	Name: Quest„o 02 - lista 1
+	Author: 
+*/
+
 main(){
     int n1, n2, n3, n4, soma;
     printf("Insira 4 numeros: ");

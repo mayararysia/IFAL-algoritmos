@@ -1,8 +1,12 @@
 #include<stdio.h>
 #include<stdlib.h>
-/*quest√£o 12*/
+/*
+	Name: Quest„o 12- lista 1
+	Author: Mayara Rysia
+*/
 main(){
-   int l, h, area, perimetro;  
+   int l, h, area, perimetro;
+   
    printf("\tRETANGULO ");
    printf("\nInsira a Largura e a Altura: ");
    scanf("%d%d", &l, &h);

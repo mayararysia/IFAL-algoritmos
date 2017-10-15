@@ -1,6 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
-/*quest√£o 03*/
+/*
+	Name: Quest„o 03 - lista 1
+	Author: Mayara Rysia
+*/
 main(){
     float nota1, nota2, nota3, media;
     printf("Insira 3 notas: ");
