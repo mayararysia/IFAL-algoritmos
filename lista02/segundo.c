@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-/*	Name: Questão 02
+/*	Name: Questão 02 - lista 2
 	Copyright: 
 	Author: Mayara Rysia
 	Date: 10/10/17 22:02

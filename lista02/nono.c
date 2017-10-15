@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<math.h>
 /*
-	Name: Questão 09
+	Name: Questão 09 - lista 2
 	Copyright: 
 	Author: Mayara Rysia
 	Date: 10/10/17 22:36

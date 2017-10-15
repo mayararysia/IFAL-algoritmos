@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 /*
-	Name: Questão 08
+	Name: Questão 08 - lista 2
 	Copyright: 
 	Author: Mayara Rysia
 	Date: 10/10/17 22:33
