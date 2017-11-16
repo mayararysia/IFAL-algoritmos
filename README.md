@@ -9,4 +9,5 @@ Repositório para a Disciplina Algoritmos do Primeiro Período em Sistemas de In
 
 # **Observações**
 
-* A **7ª questão** da **lista 2** é igual a **2ª questão** da **lista 2.1.**
+* A **7ª questão** da **lista 2** é igual a **2ª questão** da **lista 2.1;**
+* As contribuições com o código são bem-vindas.**
