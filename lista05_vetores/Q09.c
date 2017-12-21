@@ -9,17 +9,25 @@
 */
 
 main() {
-	int K[MAX], i;
+	int K[MAX], i, aux;
 	
 	printf("Insira %d elementos para primeiro vetor: \n", MAX);
 	for(i=0; i<MAX; i++){
 		scanf("%d", &K[i]);
 	}
+	
 	printf("\n\n");
 	for(i=0; i<MAX; i++) printf(" %d ", K[i]);
+	
 	printf("\nNovo Vetor:\n\n");
-	for(i=0; i<MAX; i++){
-		if(K[i]%2==1) K[i]=K[i]+1;
-		printf(" %d ", K[i]);
+	for(i=0; i<MAX; i=i+2){
+		/*condição  de i diferente de  MAX-1 para um caso de teste em que o vetor for de ordem ímpar.*/
+		if(i!=MAX-1){
+			aux=K[i];
+			K[i]=K[i+1];
+			K[i+1]=aux;
+		}
 	}
+	
+	for(i=0; i<MAX; i++) printf(" %d ", K[i]);
 }
